@@ -1,4 +1,5 @@
 <img width="128" height="128" alt="logo" src="https://github.com/user-attachments/assets/945a20a7-d05e-4ef1-aac0-f304ec98355c" />
+
 # StarStacker V1.0.0
 ### A lightweight dropped item stacking plugin written for StarRaid.Minehut.gg which runs on 1.21.10 (paper)
 You can start by downloading the latest version from the releases page. The plugin was written by 3add and can be used for your own projects when including credits.
