@@ -1,0 +1,7 @@
+name: StarStacker
+version: '1.0'
+main: dev.threeadd.starstacker.StarStacker
+api-version: '1.21'
+load: STARTUP
+authors: [ 3add ]
+description: Made by 3add
